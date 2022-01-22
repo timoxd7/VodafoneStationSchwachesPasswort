@@ -31,3 +31,6 @@ With this little tool, you can work around the _"Das eingegebene Kennwort ist zu
 8. Press Enter
 9. You should see inside the Web-Interface your correct password with _Show Characters_
 10. Click on _Apply_. The Password is now set
+
+# Quellen / Sources
+Code is adapted from https://stackoverflow.com/questions/26796873/find-which-variable-holds-a-value-using-chrome-devtools
