@@ -8,7 +8,7 @@ Mit diesem kleinen Script lässt sich die Aufforderung _"Das eingegebene Kennwor
 2. Ändere _"hier_das_richtige_passwort"_ sodass dort dein gewünschtes Passwort drin steht (z.B. _"supersicher123"_). Die Anführungszeichen müssen dabei sein, gehören aber später nicht zum passwort dazu.
 3. Gehe auf das Web-Interface der Vodafone Station unter _WLAN_ auf _Allgemein_
 4. Ändere das Passwort (_Kennwort ändern_) auf _"lol_1234_XD"_ (ohne die Anführungszeichen)
-5. Klicke auf Anwenden, aber nur ein mal (also nur in dem schwebenden Fenster, welches danach verschwindet)
+5. Klicke auf _Anwenden_, aber nur ein mal (also nur in dem schwebenden Fenster, welches danach verschwindet)
 6. Öffne die Entwickler-Tools und dort die Konsole (In Firefox: Oben rechts -> Weitere Werkzeuge -> Werkzeuge für Web-Entwickler, dann der Tab Konsole)
 7. Kopiere den angepassten Code aus 2. komplett in die Konsolen-Zeile
 8. Drücke Enter
