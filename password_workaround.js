@@ -3,7 +3,7 @@ function replacePassword() {
 
     var value = "lol_1234_XD";
     var startObject = window;
-    console.log("Seariching in: ");
+    console.log("Searching in: ");
     console.log(startObject);
 
     var stack = [[startObject,'']];
